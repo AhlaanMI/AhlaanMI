@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ahlaan Imamdeen</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlaanmi&label=Profile%20views&color=0e75b6&style=flat" alt="ahlaanmi" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
