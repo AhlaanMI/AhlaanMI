@@ -1,49 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ahlaan Imamdeen</h1>
-<h3 align="center">🚀 Computer Science Undergraduate | Full-Stack Developer | MERN Stack Enthusiast</h3>
+# Hi, I'm Ahlan 👋
+
+🚀 Software Engineer | Full-Stack Developer | AI Enthusiast  
+
+I’m a passionate software engineer who enjoys building scalable web applications, clean APIs, and smart solutions using modern technologies. I focus on writing clean, maintainable code and continuously learning new tools and frameworks.
 
 ---
 
-- 🎓 Currently pursuing B.Sc. (Hons) in Information Technology at SLIIT  
-- 🌱 Actively learning and building with the **MERN stack**
-- 💬 Ask me about **React, JavaScript, Node.js, Java, Firebase**
-- 🛠️ Passionate about building real-world projects and learning new technologies
-- 🔗 Explore my projects below and feel free to connect!
+## 👨‍💻 About Me
+- 🎓 BSc in Information Technology (Software Engineering) – SLIIT  
+- 💼 Founder / Developer at **Flowstack**
+- 🌱 Currently learning: **Advanced Node.js, System Design, AI-powered applications**
+- 🧠 Interested in: **Backend systems, APIs, AI chatbots, automation**
+- ⚡ Fun fact: I love turning real-world problems into simple tech solutions
 
 ---
 
-### 🔗 Connect with Me
+## 🛠 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/-@ahlxvn-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahlxvn)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohamedahlan58)
+**Frontend**
+- HTML, CSS, JavaScript
+- React, jQuery
 
----
+**Backend**
+- Node.js, Express
+- REST APIs
 
-### 🛠️ Tech Stack
+**Database**
+- MongoDB, Mongoose
 
-**Languages:**  
-JavaScript · Java · Python · C · C++ · SQL · Kotlin
-
-**Frontend:**  
-React.js · Next.js · Vue.js · HTML · CSS · Tailwind CSS · Bootstrap · Material UI
-
-**Backend:**  
-Node.js · Express.js · Spring Boot · Flask · Firebase
-
-**Databases:**  
-MongoDB · MySQL · SQLite · Oracle PL/SQL · Firebase Realtime DB
-
-**Tools & Platforms:**  
-Git · GitHub · VS Code · Postman · PyCharm · Firebase · Jupyter Notebook
+**Tools & Platforms**
+- Git & GitHub
+- Postman
+- Vercel
+- VS Code
 
 ---
 
-### 📈 GitHub Stats
+## 📌 Featured Project
+### 🔹 Flowstack
+A professional software solutions platform delivering scalable web and backend systems for real clients.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahlaanmi&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlaanmi&layout=compact" width="48%" />
-</p>
+🌐 Website: https://flowstack.ink  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahlaanmi" alt="GitHub Streak" />
-</p>
+---
+
+## 📫 Connect With Me
+- LinkedIn: *https://linkedin.com/in/ahlaan*
+- Email: *(add your email)*
+
+---
+
+⭐ *Always open to collaboration, learning, and building meaningful products.*
