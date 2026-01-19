@@ -1,53 +1,60 @@
-# Hi, I'm Ahlan 👋
+## Hi 👋 I'm Ahlaan
 
-🚀 Software Engineer | Full-Stack Developer | AI Enthusiast  
+Full-stack developer with a strong interest in building clean, scalable web applications and practical software solutions.
 
-I’m a passionate software engineer who enjoys building scalable web applications, clean APIs, and smart solutions using modern technologies. I focus on writing clean, maintainable code and continuously learning new tools and frameworks.
-
----
-
-## 👨‍💻 About Me
-- 🎓 BSc in Information Technology (Software Engineering) – SLIIT  
-- 💼 Founder / Developer at **Flowstack**
-- 🌱 Currently learning: **Advanced Node.js, System Design, AI-powered applications**
-- 🧠 Interested in: **Backend systems, APIs, AI chatbots, automation**
-- ⚡ Fun fact: I love turning real-world problems into simple tech solutions
+I enjoy working across the stack, improving system reliability, and writing code that’s easy to maintain and extend.
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 Focus
+- Full-stack web development  
+- Clean architecture & scalable systems  
+- API design & backend logic  
+- UI/UX-aware frontend development  
+
+---
+
+### ⚙️ Tech I Work With
+
+**Languages**
+- JavaScript / TypeScript
+- PHP
+- SQL
 
 **Frontend**
-- HTML, CSS, JavaScript
-- React, jQuery
+- React
+- Next.js
+- Tailwind CSS
+- HTML & CSS
 
 **Backend**
-- Node.js, Express
+- Node.js
+- Express
+- Laravel
 - REST APIs
 
-**Database**
-- MongoDB, Mongoose
+**Databases**
+- MongoDB
+- MySQL
+- Firebase
 
-**Tools & Platforms**
+**Tools**
 - Git & GitHub
-- Postman
-- Vercel
-- VS Code
+- Figma
+- Agile / Scrum
+- CI/CD basics
 
 ---
 
-## 📌 Featured Project
-### 🔹 Flowstack
-A professional software solutions platform delivering scalable web and backend systems for real clients.
-
-🌐 Website: https://flowstack.ink  
-
----
-
-## 📫 Connect With Me
-- LinkedIn: *https://linkedin.com/in/ahlaan*
-- Email: *(add your email)*
+### 🌱 Currently
+- Strengthening backend architecture skills  
+- Working with modern React & TypeScript patterns  
+- Exploring AI-assisted development and automation  
 
 ---
 
-⭐ *Always open to collaboration, learning, and building meaningful products.*
+### 🤝 Let’s Connect
+- GitHub: https://github.com/AhlaanMI
+- LinkedIn: https://linkedin.com/in/ahlaan
+- Portfolio: https://ahlaanmi.github.io/My-Portfolio/
+
