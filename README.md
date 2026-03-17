@@ -1,50 +1,66 @@
 <h1 align="center">Hi there, I'm Ahlan Imamdeen! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Intern;Building+Scalable+Web+Applications;Passionate+About+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Intern;Building+Scalable+Web+Applications;Passionate+About+Real-World+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahlaanmi&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/ahlaanmi?label=Followers&style=social" />
+  <a href="https://ahlaanmi.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlesitekit" />
+  </a>
+  <a href="https://linkedin.com/in/ahlaan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mohamedahlan58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Full-Stack Developer** and **IT Graduate** from Sri Lanka 🇱🇰, focused on building scalable and impactful web applications.
+I'm a passionate **Full-Stack Developer** and **Software Engineering Intern** from Sri Lanka 🇱🇰.  
+I love building **scalable, maintainable, and real-world applications** that solve problems.  
 
-💡 *"I turn ideas into real-world digital solutions through clean and efficient code."*
+💡 *"I turn ideas into real-world solutions through clean, efficient, and modern code."*
 
-- 🎓 IT / Software Engineering Graduate  
-- 💼 Experience as a Software Engineering Intern & Web Developer  
-- 🌐 Strong in Full Stack Development  
-- 🚀 Interested in scalable systems & modern architectures  
-- 🤝 Open to collaborations, internships & job opportunities  
+- 🎓 IT Graduate | Full-Stack Developer  
+- 💼 Experience: Software Engineering Intern & Web Developer  
+- 🌱 Learning AI/ML, Cloud Architecture & DevOps  
+- 🤝 Open to collaborations, internships & full-time opportunities  
 - 📍 Based in Sri Lanka (UTC +05:30)  
 
 ---
 
 ## 💼 Professional Experience
 
-| Role | Company |
-|------|--------|
-| 🛠️ Software Engineering Intern | IT Starter (Pvt) Ltd |
-| 💻 Intern Web Developer | Gamage Recruiters |
+| Role | Company | Tech Stack |
+|------|--------|-----------|
+| 🛠️ Software Engineering Intern | IT Starter (Pvt) Ltd | Full-Stack, React, Node.js, MongoDB |
+| 💻 Intern Web Developer | Gamage Recruiters | Frontend Development, UI Implementation |
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔹 Flowstack — Web & Software Solutions Platform  
-📅 *Dec 2025 – Present*
+### 🔹 Flowstack — Web & Software Solutions Platform
+📅 *Dec 2025 – Present*  
 
 - Developed responsive, production-ready websites using modern frontend technologies  
 - Handled full project lifecycle: requirements → development → deployment  
 - Applied SEO & performance optimization techniques  
-- Built scalable and maintainable solutions  
-- Collaborated directly with clients to deliver business-focused solutions  
+- Delivered scalable, maintainable solutions collaborating directly with clients  
+
+### 🔹 Vehicle Spare Parts Web Platform
+- Full-stack system with admin panel  
+- Node.js + Express.js backend, MongoDB database  
+- Real-time interaction with AJAX and optimized UI/UX  
+
+### 🔹 AI Chatbot for Vehicle Advice
+- Neural network-based chatbot with voice input  
+- Flask + jQuery frontend  
+- Real-world deployment for personalized vehicle guidance  
 
 ---
 
@@ -54,22 +70,13 @@ I'm a passionate **Full-Stack Developer** and **IT Graduate** from Sri Lanka �
 React.js • Next.js • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap  
 
 ### ⚙️ Backend
-Node.js • Express.js • REST APIs  
+Node.js • Express.js • REST APIs • Laravel • Django  
 
-### 📊 Databases
-MongoDB • MySQL  
+### 📊 Databases & Cloud
+MongoDB • MySQL • Firebase • AWS • Vercel  
 
-### 🧰 Tools & Technologies
-Git • GitHub • Postman • VS Code • Docker (Basics)  
-
----
-
-## 🎯 What I'm Working On
-
-🔹 Building full-stack production-ready applications  
-🔹 Improving backend performance & API design  
-🔹 Learning system design & DevOps practices  
-🔹 Expanding real-world project experience  
+### 🧰 Tools & DevOps
+Git • GitHub • Postman • VS Code • Docker  
 
 ---
 
@@ -78,23 +85,33 @@ Git • GitHub • Postman • VS Code • Docker (Basics)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahlaanmi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahlaanmi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlaanmi&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🎯 What I'm Working On
+
+- Building **scalable full-stack web applications**  
+- Learning **system design & cloud architecture**  
+- Mentoring junior developers & contributing to **open-source projects**  
+- Enhancing **real-world software projects** with modern best practices  
 
 ---
 
 ## 🌍 Let's Connect
 
-- 🌐 Portfolio: https://ahlaanmi.github.io/My-Portfolio/  
-- 💼 LinkedIn: https://linkedin.com/in/ahlaan  
-- 📧 Email: mohamedahlan58@gmail.com  
+<a href="https://ahlaanmi.github.io/My-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlesitekit" />
+</a>
+<a href="https://linkedin.com/in/ahlaan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:mohamedahlan58@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 ---
 
-## 💬 Let's Build Something Great!
-
-I'm always open to exciting opportunities and collaborations.  
-Feel free to reach out — let’s grow together 🚀  
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*
+💬 Always open for tech discussions, collaborations, and building amazing software.  
+Let’s **innovate, code, and grow together** 🚀💻
